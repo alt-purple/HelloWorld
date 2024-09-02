@@ -3,6 +3,7 @@
 ![IMG_0227](https://github.com/alt-purple/HelloWorld/assets/164798795/9181c61d-4f3c-4096-8f4a-ad2eab5d3434)
 
 Napolean at the Great St. Bernard by Jacques-Louis David.
+
 (Photo Greg Blanchard at the Upper Belvedere Museum,Vienna)
 
 ## Getting Started
